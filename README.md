@@ -47,6 +47,7 @@ Average Rating	Customer rating average for items sold
 
 Tools & Technologies Used
 Tool	Purpose
+
 SQL -	Data filtering, joins, and aggregations for sales analysis
 Python - (Pandas, Seaborn, Matplotlib)	Data cleaning, EDA, and visualization
 Excel -	Dashboard creation with slicers and charts
