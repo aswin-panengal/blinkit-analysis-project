@@ -1,7 +1,7 @@
 # blinkit-analysis-project
 Data Analysis of Blinkit Sales using Excel, SQL, Python &amp; Power BI
 
-Overview
+### Overview
 This project presents a comprehensive analysis of Blinkit sales data using multiple tools and technologies. The objective is to explore key business metrics and uncover actionable insights related to item types, outlet performance, fat content, and geographic impact on sales.
 
 The project is divided across four tools:
@@ -14,8 +14,8 @@ Excel: For dynamic dashboards with slicers
 
 Power BI: For interactive visual analytics
 
-Business Requirements Covered
-Granular Requirements
+# Business Requirements Covered
+# Granular Requirements
 
 1. Total Sales by Fat Content
    Analyze how fat content impacts total sales and other KPIs like Average Sales, Number of Items, and Average Rating.
@@ -29,7 +29,7 @@ Granular Requirements
 4. Total Sales by Outlet Establishment
    Understand how outlet age/type affects overall sales.
 
-Chart’s Requirements
+# Chart’s Requirements
 
 5. Percentage of Sales by Outlet Size
    Assess correlation between outlet size and sales distribution.
@@ -40,15 +40,14 @@ Chart’s Requirements
 7. All Metrics by Outlet Type
    Compare Total Sales, Average Sales, Number of Items, and Ratings across different outlet types.
 
-KPI Requirements
-KPI	Description
-Total Sales	Revenue generated from all items sold
-Average Sales	Average revenue per sale
-Number of Items	Total distinct items sold
-Average Rating	Customer rating average for items sold
+# KPI Requirements
 
-Tools & Technologies Used
-Tool	Purpose
+Total Sales - Revenue generated from all items sold
+Average Sales - Average revenue per sale
+Number of Items - Total distinct items sold
+Average Rating - Customer rating average for items sold
+
+# Tools & Technologies Used
 
 SQL -	Data filtering, joins, and aggregations for sales analysis
 Python - (Pandas, Seaborn, Matplotlib)	Data cleaning, EDA, and visualization
