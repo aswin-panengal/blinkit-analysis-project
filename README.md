@@ -41,6 +41,7 @@ Power BI: For interactive visual analytics
    Compare Total Sales, Average Sales, Number of Items, and Ratings across different outlet types.
 
 # KPI Requirements
+
  Total Sales - Revenue generated from all items sold
  
  Average Sales - Average revenue per sale
@@ -53,6 +54,9 @@ Power BI: For interactive visual analytics
 # Tools & Technologies Used
 
 SQL -	Data filtering, joins, and aggregations for sales analysis
+
 Python - (Pandas, Seaborn, Matplotlib)	Data cleaning, EDA, and visualization
+
 Excel -	Dashboard creation with slicers and charts
+
 Power BI -	Interactive report building for business insights
