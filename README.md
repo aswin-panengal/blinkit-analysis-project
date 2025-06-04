@@ -16,27 +16,29 @@ Power BI: For interactive visual analytics
 
 Business Requirements Covered
 Granular Requirements
-Total Sales by Fat Content
-Analyze how fat content impacts total sales and other KPIs like Average Sales, Number of Items, and Average Rating.
 
-Total Sales by Item Type
-Determine top-performing item categories and their impact on KPIs.
+1. Total Sales by Fat Content
+   Analyze how fat content impacts total sales and other KPIs like Average Sales, Number of Items, and Average Rating.
 
-Fat Content by Outlet for Total Sales
-Compare sales across outlets based on fat content segmentation.
+2. Total Sales by Item Type
+   Determine top-performing item categories and their impact on KPIs.
 
-Total Sales by Outlet Establishment
-Understand how outlet age/type affects overall sales.
+3. Fat Content by Outlet for Total Sales
+   Compare sales across outlets based on fat content segmentation.
+
+4. Total Sales by Outlet Establishment
+   Understand how outlet age/type affects overall sales.
 
 Chart’s Requirements
-Percentage of Sales by Outlet Size
-Assess correlation between outlet size and sales distribution.
 
-Sales by Outlet Location
-Evaluate geographic influence on sales.
+5. Percentage of Sales by Outlet Size
+   Assess correlation between outlet size and sales distribution.
 
-All Metrics by Outlet Type
-Compare Total Sales, Average Sales, Number of Items, and Ratings across different outlet types.
+6. Sales by Outlet Location
+   Evaluate geographic influence on sales.
+
+7. All Metrics by Outlet Type
+   Compare Total Sales, Average Sales, Number of Items, and Ratings across different outlet types.
 
 KPI Requirements
 KPI	Description
