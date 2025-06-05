@@ -63,5 +63,5 @@ Power BI -	Interactive report building for business insights
 
 
 ### Dataset Source
-This dataset was originally shared by [@datatutorials1] for educational purposes. All rights belong to the original creator/uploader.
+This dataset was originally shared by @datatutorials1 youtube channel for educational purposes. All rights belong to the original creator/uploader.
 
